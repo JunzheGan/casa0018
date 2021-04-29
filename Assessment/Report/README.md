@@ -54,6 +54,9 @@ As the result below shows, the ultimate model has the highest accuracy rate (84.
 
 
 ## Results and Observations
+The final validation result is shown below
+![image](https://github.com/JunzheGan/casa0018/blob/main/Assessment/Report/Pic/Screenshot%202021-04-29%20111832.png)
+
 The live classification using webcam on smart phone are shown in video below. There are two videos, one is using my face as experimental data, the other one is using public photographs on unsplash.
 
 https://github.com/JunzheGan/casa0018/blob/main/Assessment/Report/Videos/1.mp4
