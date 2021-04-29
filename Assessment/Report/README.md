@@ -4,7 +4,8 @@ Junzhe Gan
 
 ## Introduction
 The inspiration of this project is from PwC Game-based Assessment. One of their tasks is asking candidates to match human face showing leftwards with correct emotion showing on the right.
-  ![image](https://github.com/JunzheGan/Chris_Burger/blob/main/pic/pwc.png)
+![image](https://github.com/JunzheGan/Chris_Burger/blob/main/pic/pwc.png)
+
 This has motivated me to use deep learning techniques building a model which can swiftly detect human facial emotions.  
 
 ## Research Question
