@@ -1,8 +1,6 @@
 # Human Facial emotion detection model
-Junzhe Gan
 ## Introduction
 The inspiration of this project is from PwC Game-based Assessment. One of their tasks is asking candidates to match human face showing leftwards with correct emotion showing on the right.
-
 ![image](https://github.com/JunzheGan/Chris_Burger/blob/main/pic/pwc.png)
 
 This has motivated me to use deep learning techniques building a model which can swiftly detect human facial emotions. This could be used on analysis of audience feeling as the online meeting via zoom and other platform has replaced the traditional face-to-face meeting during the pandemic of covid-19. Through research online, similar technique has been widely applied in retail business. As Vihar suggested, knowing campaign effectiveness through facial behavioural analytics with AI enabled camera on digital signage has enhanced customers’ experience. Facial recognition with deep learning algorithms help retailers to understand different moods and expressions of shoppers in response to various discounts and promotional offers, so they can design better promotional campaigns. Nevertheless, Walmart has also adopted this technology, it classifies facial expressions of customers at checkout lines with AI-based algorithms measuring the service satisfaction index. Moreover, Iva Djukić, a marketing specialist has found that business spokesperson with positive emotions will make their brand more appealing to customers. Thus, it is very essential to use deep learning model to study human emotions. 
