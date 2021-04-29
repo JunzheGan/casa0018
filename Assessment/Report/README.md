@@ -32,9 +32,12 @@ When it comes to setup the neural networks, 50 number of training cycles with le
 
 
 ## Experiments
-What experiments did you run to test your project? What parameters did you change? How did you measure performance? Did you write any scripts to evaluate performance? Did you use any tools to evaluate performance? Do you have graphs of results? 
+Experiments has been taken out to find the relationship between accuracy, loss rate and parameters about neural networking.
+![image](https://github.com/JunzheGan/Chris_Burger/blob/main/pic/0001.png)
+![image](https://github.com/JunzheGan/Chris_Burger/blob/main/pic/0001_60_01.png)
 
-*probably ~300 words and graphs and tables are usually good to convey your results!*
+For the first set, there are only 20 training cycles with learning rate at 0.001. 
+
 
 ## Results and Observations
 Synthesis the main results and observations you made from building the project. Did it work perfectly? Why not? What worked and what didn't? Why? What would you do next if you had more time?  
