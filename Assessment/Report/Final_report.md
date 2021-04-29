@@ -12,7 +12,9 @@ This has motivated me to use deep learning techniques building a model which can
 Can I build a facial emotion detection model to determine whether the target is happy or sad?
 
 ## Application Overview
-The project is completed with Edge Impluse and Web cam on smart phone or computer.   
+The project is built through three steps. The first step 
+
+![image](https://github.com/JunzheGan/casa0018/blob/main/Assessment/Projects/Final%20Project/Pics/fc.png)
 
 ## Data
 The data is derived from Kaggle Emotion Detection dataset. The dataset originally have images categorised into seven feelings group, for simplicity, only data showing happy and sad emotions are used. Moreover, 189 pictures containing people with different race, age and gender are carefully selected from thousands of happy images to use as training data for "happy" category and 24 pictures are used as testing data. The same happened for choosing training and test data for "sad". The dataset used is showing below:
