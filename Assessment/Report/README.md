@@ -1,13 +1,10 @@
-# Human Facial emotion detection
+# Human Facial emotion detection model
 
 Junzhe Gan
 
 ## Introduction
-- an overview of what the project does
-- your inspiration for making the project 
-- examples that it is based on. 
-
-*probably ~200 words and images are good!*
+The inspiration of this project is from PwC Game-based Assessment. One of their tasks is asking to match human face showing leftwards with correct emotion showing on the right.
+![image](https://user-images.githubusercontent.com/Chris_Burger/pic/pwc.png)
 
 ## Research Question
 What is the problem you are trying to solve
