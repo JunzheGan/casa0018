@@ -12,9 +12,9 @@ This has motivated me to use deep learning techniques building a model which can
 Can I build a facial emotion detection model to determine whether the target is happy or sad?
 
 ## Application Overview
-The project is built through three steps. The first step 
+The project is built through three main steps. The first step is data gathering. The initial data was sourced online with much more content than this project needs. Data selection has been carried out to ensure the image quailty and the general pattern among "happy" and "sad" are distinctive. The second step is imported data into Edge Impulse, which is a very convenient online source for traning and developing deep learning models. The image data was divided into training and testing based on purpose as well as "happy" and "sad" based on properties. The data was then studyed and trained by an pre-trained image classification model. The final model is derived by selecting the best performing model through the inital study and verify with the validation dataset(which just being separated from the training data). With the newly built model, live classification through web cam can be conducted to see how will the model performe with unfamiliar data. After the model studying new image, it will provide its identification of the image, and the output should fall within "happy", "sad", or "unknown". 
 
-![image](https://github.com/JunzheGan/casa0018/blob/main/Assessment/Projects/Final%20Project/Pics/fc.png)
+![image](https://github.com/JunzheGan/casa0018/blob/main/Assessment/Projects/Final%20Project/Pics/fl.png)
 
 ## Data
 The data is derived from Kaggle Emotion Detection dataset. The dataset originally have images categorised into seven feelings group, for simplicity, only data showing happy and sad emotions are used. Moreover, 189 pictures containing people with different race, age and gender are carefully selected from thousands of happy images to use as training data for "happy" category and 24 pictures are used as testing data. The same happened for choosing training and test data for "sad". The dataset used is showing below:
