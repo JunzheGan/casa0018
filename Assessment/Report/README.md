@@ -1,6 +1,6 @@
-# Report title goes here
+# Human Facial emotion detection
 
-name of author
+Junzhe Gan
 
 ## Introduction
 - an overview of what the project does
@@ -27,6 +27,7 @@ Describe what data sources you have used and any cleaning, wrangling or organisi
 ## Model
 This is a Deep Learning project! What model architecture did you use? Did you try different ones? Why did you choose the ones you did?
 
+
 *probably ~200 words and a diagram is usually good to describe your model!*
 
 ## Experiments
@@ -50,9 +51,9 @@ Synthesis the main results and observations you made from building the project. 
 
 ## Declaration of Authorship
 
-I, AUTHORS NAME HERE, confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
+I, Junzhe Gan, confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
 
 
-*Digitally Sign by typing your name here*
+*Junzhe Gan*
 
-ASSESSMENT DATE
+29-April-2021
