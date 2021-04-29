@@ -4,7 +4,7 @@ Junzhe Gan
 
 ## Introduction
 The inspiration of this project is from PwC Game-based Assessment. One of their tasks is asking to match human face showing leftwards with correct emotion showing on the right.
-![image](https://user-images.githubusercontent.com/Chris_Burger/pic/pwc.png)
+![image](https://github.com/JunzheGan/Chris_Burger/blob/main/pic/pwc.png)
 
 ## Research Question
 What is the problem you are trying to solve
