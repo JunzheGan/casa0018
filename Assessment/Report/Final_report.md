@@ -1,5 +1,4 @@
 # Human Facial emotion detection model
-
 Junzhe Gan
 
 ## Introduction
@@ -98,4 +97,5 @@ I, Junzhe Gan, confirm that the work presented in this assessment is my own. Whe
 ## Appendix
 Edge Impulse Project-the latest public version is version 7, available here: https://studio.edgeimpulse.com/public/21886/latest
 
-The code and data used can all be found at github repository: https://github.com/JunzheGan/casa0018/tree/main/Assessment
+The code and data used can all be found at github repository: https://github.com/JunzheGan/casa0018/tree/main/Assessment/Projects/Final%20Project
+
