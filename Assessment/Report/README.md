@@ -3,8 +3,9 @@
 Junzhe Gan
 
 ## Introduction
-The inspiration of this project is from PwC Game-based Assessment. One of their tasks is asking to match human face showing leftwards with correct emotion showing on the right.
-![image](https://github.com/JunzheGan/Chris_Burger/blob/main/pic/pwc.png)
+The inspiration of this project is from PwC Game-based Assessment. One of their tasks is asking candidates to match human face showing leftwards with correct emotion showing on the right.
+  ![image](https://github.com/JunzheGan/Chris_Burger/blob/main/pic/pwc.png)
+This has motivated me to use deep learning techniques building a model which can swiftly detect human facial emotions.  
 
 ## Research Question
 What is the problem you are trying to solve
@@ -17,9 +18,9 @@ Thinking back to the various application diagrams you have seen through the modu
 *probably ~200 words and a diagram is usually good to convey your design!*
 
 ## Data
-Describe what data sources you have used and any cleaning, wrangling or organising you have done. Including some examples of the data helps others understand what you have been working with.
-
-*probably ~200 words and images of what the data 'looks like' are good!*
+The data is derived from Kaggle Emotion Detection dataset. The dataset originally have images categorised into seven feelings group, for simplicity, only data showing happy and sad emotions are used. Moreover, 189 pictures containing people with different race, age and gender are carefully selected from thousands of happy images to use as training data for "happy" category and 24 pictures are used as testing data. The same happened for choosing training and test data for "sad". The dataset used is showing below:
+![image](https://github.com/JunzheGan/Chris_Burger/blob/main/pic/happy.png)
+![image](https://github.com/JunzheGan/Chris_Burger/blob/main/pic/sad.png)
 
 ## Model
 This is a Deep Learning project! What model architecture did you use? Did you try different ones? Why did you choose the ones you did?
