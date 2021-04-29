@@ -34,9 +34,17 @@ When it comes to setup the neural networks, 50 number of training cycles with le
 ## Experiments
 Experiments has been taken out to find the relationship between accuracy, loss rate and parameters about neural networking.
 ![image](https://github.com/JunzheGan/Chris_Burger/blob/main/pic/0001.png)
+
+For the first set, there are only 20 training cycles with learning rate at 0.001.The minimum confidence rating is kept at 60% as default. The result is not very satisfying since the model's accuracy rate is only 66.3%, with a loss of 0.69.
 ![image](https://github.com/JunzheGan/Chris_Burger/blob/main/pic/0001_60_01.png)
 
-For the first set, there are only 20 training cycles with learning rate at 0.001. 
+For the second set, training cycles are increased to 50 and learning rate also rises to 0.006. The minimum confidence rating is decreased to 55% to reduce the "unknown" result. ![image](https://github.com/JunzheGan/Chris_Burger/blob/main/pic/002.png)  
+
+As expected, the accuracy rate improved significantly to 76.3%, with a loss of 0.98. This proves that increasing learning cycles and learning rate will improve the accuracy of the model. However, this can only be true under the assumption that the model is not overfitting.
+![image](https://github.com/JunzheGan/Chris_Burger/blob/main/pic/02.png)
+
+The third test take exactly the same setting as the second one despite it is the fourth time retraining the model. This explains why there are 9216 features for input layer in test 3 but only 2304 features in test 2.
+![image](https://github.com/JunzheGan/Chris_Burger/blob/main/pic/0001_60_003.png)
 
 
 ## Results and Observations
