@@ -54,9 +54,7 @@ As the result below shows, the ultimate model has the highest accuracy rate (84.
 
 
 ## Results and Observations
-Synthesis the main results and observations you made from building the project. Did it work perfectly? Why not? What worked and what didn't? Why? What would you do next if you had more time?  
-
-*probably ~300 words and remember images and diagrams bring results to life!*
+The live classification using webcam on smart phone are shown in video below.
 
 ## Bibliography
 
