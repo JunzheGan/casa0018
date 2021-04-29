@@ -64,10 +64,12 @@ By looking at the validation results table, one interesting thing is that accura
 ![image](https://github.com/JunzheGan/casa0018/blob/main/Assessment/Report/Pic/im38.png)
 ![image](https://github.com/JunzheGan/casa0018/blob/main/Assessment/Report/Pic/im91.png)
 
-The live classification using webcam on smart phone are shown in video below. There are two videos, one is using my face as experimental data, the other one is using public photographs on unsplash.
+Since the edge impulse currently does not support deployment to Arducam, the model is tested using webcam on smart phone and laptop. There are two videos, one is using my face as experimental data, the other one is using public photographs on unsplash. The model performs quite well in both senarios. Hence, it is feasible to create a simple facial emotion detection model. 
 
 https://github.com/JunzheGan/casa0018/blob/main/Assessment/Report/Videos/1.mp4
 https://github.com/JunzheGan/casa0018/blob/main/Assessment/Report/Videos/2.mp4
+
+
 
 
 ## Bibliography
@@ -79,15 +81,19 @@ https://github.com/JunzheGan/casa0018/blob/main/Assessment/Report/Videos/2.mp4
 2. Vihar, Soni. (Aug 8, 2020). Facial Recognition in Retail - Enhance In-store Customer experience and Improve Retailer Operations. 
    available at: https://www.einfochips.com/blog/facial-recognition-in-retail-enhance-in-store-customer-experience-and-improve-retailer-operations/
 
-----
+3. F. Agrafioti, D. Hatzinakos and A. K. Anderson, (March, 2012). "ECG Pattern Analysis for Emotion Detection," in IEEE Transactions on Affective Computing, vol. 3, no. 1, 
+   pp.102-115, doi: 10.1109/T-AFFC.2011.28.    
+
 
 ## Declaration of Authorship
 
 I, Junzhe Gan, confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
-
 
 *Junzhe Gan*
 
 29-April-2021
 
 ## Appendix
+Edge Impulse Project-the latest public version is version 7, available here: https://studio.edgeimpulse.com/public/21886/latest
+
+The code and data used can all be found at github repository: https://github.com/JunzheGan/casa0018/tree/main/Assessment
