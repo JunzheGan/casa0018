@@ -21,8 +21,10 @@ The data is derived from Kaggle Emotion Detection dataset. The dataset originall
 These data was then imported to Edge-impulse with labelled "happy" or "sad". The image data was further squashed to a size of 96 * 96.
 
 ## Model
-The model is completely build using basic functions on edge impulse. The Transfer Learning block in is selected at create impulse stage as it is recommended for image classification purpose, and the output features will be the two categories, “happy” and “sad”. For the image processing, grayscale is selected to avoid the light issue, followed by the generation of features of 378 training data. As the figure shown below, the “happy” data and “sad” data are quite separated from each other.
+The model is completely build using basic functions on edge impulse. The Transfer Learning block is selected at create impulse stage as it is recommended for image classification purpose, and the output features will be the two categories, “happy” and “sad”. For the image processing, grayscale is selected to avoid the light issue, followed by the generation of features of 378 training data. As the figure shown below, the “happy” data and “sad” data are quite separated from each other.
 ![image](https://github.com/JunzheGan/Chris_Burger/blob/main/pic/g.png)
+When it comes to setup the neural networks, 50 number of training cycles with learning rate at 0.006 are set. The minimum confidence rating is set at 55%. As for the Neural network architecture, MobileNetV2 0.35 with 10 neurons as fianl layer and the dropout rate being set at 0.2 are chosen to ensure performance quality and prevent overfitting.
+![image](https://github.com/JunzheGan/Chris_Burger/blob/main/pic/NNS.png)
 
 
 
