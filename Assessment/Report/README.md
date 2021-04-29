@@ -45,7 +45,7 @@ For the second set, training cycles are increased to 50 and learning rate also r
 As expected, the accuracy rate improved significantly to 76.3%, with a loss of 0.98. This proves that increasing learning cycles and learning rate will improve the accuracy of the model. However, this can only be true under the assumption that the model is not overfitting.
 ![image](https://github.com/JunzheGan/Chris_Burger/blob/main/pic/02.png)
 
-The third test take exactly the same setting as the second one despite it is the fourth time retraining the model. This explains why there are 9216 features for input layer in test 3 but only 2304 features in test 2.
+The third test takes exactly the same setting as the second one despite it is the fourth time retraining the model. This explains why there are 9216 features for input layer in test 3 but only 2304 features in test 2.
 ![image](https://github.com/JunzheGan/Chris_Burger/blob/main/pic/003.png)
 
 As the result below shows, the ultimate model has the highest accuracy rate (84.2%) and the lowest loss (0.41) among the three. This again proves that increasing learning cycles and rate will generally improve the model accuracy. However, we need to be very caution to avoid the overfitting problem when varying the setting for neural networks.
